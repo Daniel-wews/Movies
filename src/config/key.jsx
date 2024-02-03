@@ -1,0 +1,1 @@
+export const APIKey ="https://api.themoviedb.org/3/movie/popular?api_key=04ef14498df2f0f341096486eb13b7e0"
